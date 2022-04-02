@@ -42,19 +42,3 @@ div $t4, $a1, $t3 # input / 2
 mfhi $t4 # remainder
 bne $t4, $zero, notprime #if divisible by 2, not prime
 j for # loop
-
-
-
-
-
-
-
-
-  
-
- 
-
-
-
-
-
